@@ -1,0 +1,25 @@
+.container {
+  max-width: 500px;
+  display: flex;
+  justify-content: center;
+}
+
+.calculator {
+  border: 1px solid black;
+}
+
+.display {
+  border: 1px solid black;
+  font-weight: bold;
+}
+
+.btn {
+  padding: 20px;
+  height: 200px;
+}
+
+button {
+  border-radius: 20px;
+  border: none;
+  padding: 10px 15px;
+}
